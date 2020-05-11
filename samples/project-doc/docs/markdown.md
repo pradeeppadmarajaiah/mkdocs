@@ -86,16 +86,10 @@ Example 2
 
 
 
-## Headers  
-    * Syntax : `#Header1`  
-#Header1
-    * Syntax : `##Header2`  
-##Header2   
-    * Syntax : `###Header3`  
-###Header3
-    * Syntax : `####Header4`
-###Header4
-    * Syntax : `####Header5`
-####Header5  
-    * Syntax : `####Header6`  
-####Header6  
+## Headers    
+* Syntax : `#Header1`     
+* Syntax : `##Header2`    
+* Syntax : `###Header3`    
+* Syntax : `####Header4`  
+* Syntax : `####Header5`  
+* Syntax : `####Header6`    
