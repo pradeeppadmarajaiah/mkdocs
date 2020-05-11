@@ -1,34 +1,8 @@
 # Markdown Commands
 
-## Headers
-* Syntax : `#Header1`
-
-    #Header1
-
-* Syntax : `##Header2`
-
-    ##Header2   
-
-* Syntax : `###Header3`
-
-    ###Header3
-
-* Syntax : `####Header4`
-
-    ###Header4
-
-* Syntax : `####Header5`
-
-    ####Header5  
-
-* Syntax : `####Header6`
-
-    ####Header6  
-
 ## Bold
-  Syntax :  `**Bold**`
-
-  Example : **Bold**
+Syntax :  `**Bold**`  
+Example : **Bold**
 
 
 ## Italic
@@ -36,24 +10,23 @@
 
   Example : _Italic_
 
-
 ## Bold and Italic
   Syntax : `**_Bold and Italic_**`
 
   Example : **_Bold and Italic_**
 
 
-#### Link
+## Link
 Syntax :  `[Check Google](www.google.com))`
 
 Example : [Check Google](www.google.com)
 
-#### Images
+## Images
 Syntax :  `![alertnative value](https://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg)`
 
 Example : ![alertnative value](https://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg)
 
-#### Blockquotes
+## Blockquotes
 Syntax : `>"Blockquotes"`
 
 Example :
@@ -61,14 +34,14 @@ Example :
 >
 >Blockquotes2
 
-#### Strike through
+## Strike through
 Syntax : `<s>Strike through</s>`    
 
 <s>Strike through</s>
 
 
 
-#### Unordered list
+## Unordered list
 Syntax : `* Pradeep`
 
 Example 1
@@ -86,7 +59,7 @@ Example 2
 
 
 
-#### Ordered list
+## Ordered list
 Syntax : `1 Pradeep` (add two space after each line)
 
 Example 1
@@ -104,9 +77,25 @@ Example 2
         * Jain  
 
 
-#### Table
+## Table
 
 | Name |Id     |
 | :------------- | :------------- |
 | _Amit_      | **E001**       |
 | _Pradeep_      | **E002**       |
+
+
+
+## Headers  
+    * Syntax : `#Header1`  
+#Header1
+    * Syntax : `##Header2`  
+##Header2   
+    * Syntax : `###Header3`  
+###Header3
+    * Syntax : `####Header4`
+###Header4
+    * Syntax : `####Header5`
+####Header5  
+    * Syntax : `####Header6`  
+####Header6  
